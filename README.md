@@ -7,10 +7,6 @@ A full-stack content management application designed for sharing tweets, videos,
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-- [Contact](#contact)
 
 ## Overview
 Brainly is a web application that allows users to sign up, log in, and manage content such as tweets, videos, and links. It features a modern, responsive UI with dark mode support, a dynamic sidebar, and the ability to share content via unique links. The project is built with a focus on security (using JWT authentication) and scalability, making it suitable for collaborative content sharing.
